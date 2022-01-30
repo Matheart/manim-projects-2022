@@ -3,6 +3,9 @@ share/
 *.mp4
 *.jpg
 *.png
+*.aux
+*.dvi
+*.svg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
