@@ -1,0 +1,59 @@
+*Adopted from Golly
+Cellular Automaton
+元胞自动机：数学与计算机结合而诞生的优雅之作
+主题：介绍除了康威生命游戏之外的其他规则形式
+
+Conway s Game of Life: B3/S23 Rule
+
+=> Generalise
+1.Highlife - Replicator
+
+=> More general
+https://conwaylife.com/wiki/Generations
+Bx/Sy/n
+*aging instead to simply death
+2.Generations:
+Bloomerang
+Burst
+Ebb-and_Flow
+Fireworks
+Lava
+Nova
+Perfect-spiral
+Sedi-mental
+Steeplechase
+Transers
+
+=> Genereralised Cellular Automata
+3.WireWorld
+circuits
+clocks
+
+4.Langtons Ant
+
+Loops
+Evoloop-finite
+Langtons-loops
+
+Margolus
+BBM
+Sand
+
+
+
+Patersons-Worms
+
+
+Langtons-ant
+NickGardener
+...
+
+3D GoL
+
+==============
+The third video
+
+Glider syntheses
+
+make-harbor
+oscillator-synthesis
