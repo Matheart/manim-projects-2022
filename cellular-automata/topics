@@ -30,7 +30,11 @@ circuits
 clocks
 
 4.Langtons Ant
+Patersons-Worms
+NickGardener
 
+
+-**--
 Loops
 Evoloop-finite
 Langtons-loops
@@ -38,14 +42,10 @@ Langtons-loops
 Margolus
 BBM
 Sand
+-**--
 
 
 
-Patersons-Worms
-
-
-Langtons-ant
-NickGardener
 ...
 
 3D GoL
