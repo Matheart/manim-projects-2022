@@ -1,12 +1,38 @@
 标题：“元胞自动机：数学与计算机结合而诞生的优雅之作”
 主题：介绍除了康威生命游戏之外的其他规则形式
 
-上集视频提到的生命游戏
-元胞自动机，因冯诺伊曼在四十年代对自我复制系统的研究而生。
+数学和计算机两个学科有着大量的交叉领域，如计算复杂性理论，自动机理论等等（动画：左右各自一个round rectangle，包含各自的研究领域，左的往左shift，右的往右shift，画两个箭头到中间,FadeInFromShift UP 表示有什么交叉领域）
+在四十年代冯诺伊曼对自我复制系统的研究中，诞生了自动机理论的模型之一 -- 元胞自动机，它在物理，理论生物学等都有着广泛应用
 
-插入：元胞自动机的定义
-结合自动机理论
-有不同种类的元胞自动机，在无数科学家的不懈探索下逐渐发展蓬勃，其中最为有名的就是上集视频提到的康威生命游戏
+在上集视频我们提到的生命游戏，就是其中一种元胞自动机
+只有极其简单的规则却能演变出非常复杂的图案，（在这里展示star-board的图案）
+但是其实生命游戏只是其中一个最受欢迎的版本而已，
+在这期视频中我会介绍更多不同类型的元胞自动机
 
-插入：生命游戏的规则
+首先我们来回顾一下生命游戏的规则，
+………… （两个分镜）
+B3/S23 
 
+拆解Birth abc / Survive def
+
+It has two dimensions (i.e., n=2).
+It has two states, usually called OFF and ON (i.e., |S|=2).
+It uses the Moore neighbourhood.
+The new state of a cell in the next generation can be expressed as a function of the number of cells in its neighbourhood that are in the ON state and the cell's own state; that is, the rule is outer totalistic (also called semitotalistic).
+列举其他种类的类生命游戏 Life-like cellular automaton（整一个table出来）
+Highlife - Replicator
+
+如果不想只有生和死两种状态，可以定义aging 
+...
+Generations
+==========
+Bloomerang
+Burst
+Ebb-and_Flow
+Fireworks
+Lava
+Nova
+Perfect-spiral
+Sedi-mental
+Steeplechase
+Transers
