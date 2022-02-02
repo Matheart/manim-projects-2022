@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/2724823860_2635374981_3966410628.mp4'
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/1164547788_3883238999_2181703546.mp4'
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/1164547788_2216897446_1655400412.mp4'
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/1164547788_1809923357_3122481526.mp4'
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/1164547788_2216897446_1983018593.mp4'
+file 'file:/home/matheart/manim-projects/cellular-automata/media/videos/CA/1080p60/partial_movie_files/Math_and_CS/1164547788_1860841285_605624116.mp4'
