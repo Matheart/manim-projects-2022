@@ -66,7 +66,7 @@ class CellTable(VGroup):
                     Square(side_length=self.shape_sets['block_width'], color=self.stage_to_color(self.stage[x, y]), fill_opacity=1)\
                         .move_to(self.get_position(x, y))
                 )
-    
+
     def __getitem__(self, index):
         # Inside, row / col inverted
         flat = index[1] + self.shape[1] * index[0]
